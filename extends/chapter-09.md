@@ -1,11 +1,10 @@
-软件工程
+軟體工程
 ---
 
-UI 组件化
+UI 元件化
 
 Require.js
 
-WebPack ES6 
+WebPack ES6
 
-代码模块化
- 
+程式碼模組化
