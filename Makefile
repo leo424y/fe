@@ -1,6 +1,6 @@
 include_dir=build
 source=chapters/*.md
-title='我的职业是前端工程师'
+title='我的職業是前端工程師'
 filename='ebook'
 
 
